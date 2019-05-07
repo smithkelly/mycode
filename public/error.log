@@ -1,0 +1,1 @@
+[Fri Nov 09 00:33:19.445228 2018] [php7:error] [pid 4568:tid 1592] [client ::1:63676] PHP Fatal error:  Class 'App\\Http\\Controllers\\Api\\Controller' not found in C:\\xampp\\htdocs\\emplug\\app\\Http\\Controllers\\Api\\UserController.php on line 8
